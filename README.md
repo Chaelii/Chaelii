@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAutot&text=Chaeli's%20GitHub&animation=twinkling&fontSize=48&fontAlignY=40&fontAlign=50&height=240)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Chaeli's%20GitHub&animation=twinkling&fontSize=48&fontAlignY=40&fontAlign=50&height=240)
 
 <div align="left">
   
